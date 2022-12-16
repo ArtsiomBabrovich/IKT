@@ -81,8 +81,7 @@ http://www.yandex.ru/, http://www.mail.ru/. Также был использов
 Аналитический обзор найденных документов по теме «Формирование лексико-
 грамматических навыков учащихся средних классов на основе информационно-
 коммуникационных технологий».
-1. https://cyberleninka.ru/article/n/primenenie-ikt-na-urokah-angliyskogo-yazyka-kak-sposob-
-povysheniya-motivatsii-obuchayuschihsya
+1. https://cyberleninka.ru/article/n/primenenie-ikt-na-urokah-angliyskogo-yazyka-kak-sposob-povysheniya-motivatsii-obuchayuschihsya
 > Шум Е.В. Применение ИКТ на уроках английского языка как способ повышения мотивации
 > обучающихся // Материалы Всероссийской научно-практической конференции «Наука и социум» –
 > 2022-n 19
